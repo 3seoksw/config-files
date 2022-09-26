@@ -8,8 +8,8 @@ A collection of my config files (neovim).
   
 
 ## Table of Contents of Config Files
-- [init.vim](#init.vim)
-- [plugins.vim](#plugins.vim)
+- [init.vim](##init.vim)
+- [plugins.vim](##plugins.vim)
 
 ## init.vim
 
